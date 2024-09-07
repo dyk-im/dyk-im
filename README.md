@@ -41,13 +41,13 @@
       <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
       <img src="https://img.shields.io/badge/node.js-5FA04E?style=for-the-badge&logo=node.js&logoColor=black">
       <img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white">
-      <img src="https://img.shields.io/badge/socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white">
     </div>
     <p><strong>📫 Etc</strong></p>
     <div>
       <img src="https://img.shields.io/badge/Security-1A1A1A?style=for-the-badge&logo=hackaday&logoColor=white">
       <img src="https://img.shields.io/badge/Amazon ec2-FF9900?style=for-the-badge&logo=amazon ec2&logoColor=white">
       <img src="https://img.shields.io/badge/raspberry pi-A22846?style=for-the-badge&logo=raspberry pi&logoColor=white">
+      <img src="https://img.shields.io/badge/socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white">
       <img src="https://img.shields.io/badge/tensorflow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
     </div>
     <p><strong>😄 Plan</strong></p>
