@@ -1,5 +1,13 @@
-## Hi there 👋
-![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=300&text=WelcomeToDyk'sPlace&fontSize=60)
+##
+![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=300&text=WelcomeToDyk'sGitHub&fontSize=60&customColorList=0,2,3)
+
+<h1>🌱About Me</h1>
+<p>🔭 I’m currently working on ...</p>
+<div display="flex">
+
+<a href="https://github.com/dyk-im"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=dyk-im&show_icons=true&include_all_commits=true&theme=nord&hide_border=true" alt="dyk's github stats" /></a>
+<a href="https://github.com/dyk-im"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dyk-im&layout=compact&theme=nord&hide_border=true" width="45%"/></a>
+
 <!--
 **dyk-im/dyk-im** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
