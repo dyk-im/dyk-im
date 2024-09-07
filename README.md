@@ -3,7 +3,7 @@
 ## 🌱About Me
 
   <p>🔭 김동윤 [Dongyun Kim] - Back-End Developer</p>
-  <p>🔭 가천대학교 [Gacgib Univ.] - 2020.03 ~ </p>
+  <p>🔭 가천대학교 [Gachon Univ.] - 2020.03 ~ </p>
   <p>🔭 컴퓨터공학전공 [Major - Computer Engineering]</p>
   <p>🔭 I’m currently working on Java & Spring</p>
   <p>🔭 도전하는 개발자 성장하는 개발자 끈기있는 개발자</p>
