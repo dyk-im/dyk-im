@@ -21,13 +21,13 @@
 
 ##  🤔Once I've Experienced
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
-   <p><strong>Language</strong></p>
+   <p><strong>📫 Language</strong></p>
     <div>
       <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=C&logoColor=white"/>
       <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
       <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
     </div>
-    <p><strong>Frontend</strong></p>
+    <p><strong>📫 Frontend</strong></p>
     <div>
         <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
         <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
@@ -35,21 +35,22 @@
         <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white">
         <img src="https://img.shields.io/badge/vue-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white">
     </div>
-    <p><strong>Backend</strong></p>
+    <p><strong>📫 Backend</strong></p>
     <div>
       <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=black">
       <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-      <img src="https://img.shields.io/badge/node-5FA04E?style=for-the-badge&logo=node.js&logoColor=black">
+      <img src="https://img.shields.io/badge/node.js-5FA04E?style=for-the-badge&logo=node.js&logoColor=black">
       <img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white">
+      <img src="https://img.shields.io/badge/socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white">
     </div>
-    <p><strong>Etc</strong></p>
+    <p><strong>📫 Etc</strong></p>
     <div>
       <img src="https://img.shields.io/badge/Security-1A1A1A?style=for-the-badge&logo=hackaday&logoColor=white">
       <img src="https://img.shields.io/badge/Amazon ec2-FF9900?style=for-the-badge&logo=amazon ec2&logoColor=white">
       <img src="https://img.shields.io/badge/raspberry pi-A22846?style=for-the-badge&logo=raspberry pi&logoColor=white">
       <img src="https://img.shields.io/badge/tensorflow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
     </div>
-    <p><strong>Plan</strong></p>
+    <p><strong>😄 Plan</strong></p>
     <div>
       <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=black">
       <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
