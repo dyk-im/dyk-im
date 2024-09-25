@@ -33,7 +33,7 @@
         <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
         <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
         <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white">
-        <img src="https://img.shields.io/badge/vue-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white">
+        <!--<img src="https://img.shields.io/badge/vue-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white">-->
     </div>
     <p><strong>📫 Backend</strong></p>
     <div>
@@ -47,7 +47,7 @@
       <img src="https://img.shields.io/badge/Security-1A1A1A?style=for-the-badge&logo=hackaday&logoColor=white">
       <img src="https://img.shields.io/badge/Amazon ec2-FF9900?style=for-the-badge&logo=amazon ec2&logoColor=white">
       <img src="https://img.shields.io/badge/raspberry pi-A22846?style=for-the-badge&logo=raspberry pi&logoColor=white">
-      <img src="https://img.shields.io/badge/socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white">
+      <!--<img src="https://img.shields.io/badge/socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white">-->
       <img src="https://img.shields.io/badge/tensorflow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
     </div>
     <p><strong>😄 Plan</strong></p>
