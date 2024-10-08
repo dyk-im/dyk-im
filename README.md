@@ -40,7 +40,7 @@
       <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=black">
       <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
       <img src="https://img.shields.io/badge/node.js-5FA04E?style=for-the-badge&logo=node.js&logoColor=black">
-      <img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white">
+      <!--<img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white">-->
     </div>
     <p><strong>📫 Etc</strong></p>
     <div>
