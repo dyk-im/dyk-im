@@ -7,8 +7,8 @@
   <p>🔭 컴퓨터공학전공 [Major - Computer Engineering]</p>
   <p>🔭 I’m currently working on Java & Spring</p>
   <p>🔭 도전하는 개발자 성장하는 개발자 끈기있는 개발자</p>
-  <a href="https://github.com/dyk-im"><img align="center" style="height:180px" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dyk-im&layout=compact&theme=nord&hide_border=true"/></a>
-    <a href="https://github.com/dyk-im"><img align="center"  style="height:180px" src="https://github-readme-stats.vercel.app/api?username=dyk-im&show_icons=true&include_all_commits=true&theme=nord&hide_border=true" alt="dyk's github stats" /></a>
+  <a href="https://github.com/dyk-im"><img align="center" style="height:180px" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dyk-im&layout=compact&theme=nord&hide_border=true"/></a>
+  <a href="https://github.com/dyk-im"><img align="center"  style="height:180px" width="36%" src="https://github-readme-stats.vercel.app/api?username=dyk-im&show_icons=true&include_all_commits=true&theme=nord&hide_border=true" alt="dyk's github stats" /></a>
 
 
 ## ⚡Main Skill
