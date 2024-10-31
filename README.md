@@ -17,7 +17,7 @@
        <img src="https://img.shields.io/badge/java-F98012?style=for-the-badge&logo=openjdk&logoColor=white">
        <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=black">
        <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=black">
-       <img src="https://img.shields.io/badge/MYSQL-F80000?style=for-the-badge&logo=oracle&logoColor=white">
+       <img src="https://img.shields.io/badge/MYSQL-F80000?style=for-the-badge&logo=oracle&logoColor=white">
      </div>
 </div>
 
