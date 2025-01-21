@@ -52,14 +52,14 @@
     <div>
       <img src="https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=node.js&logoColor=black">
       <img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white">
-      <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
+      <!-- <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"> -->
     </div>
     <p><strong>📫 Etc</strong></p>
     <div>
       <img src="https://img.shields.io/badge/Security-1A1A1A?style=for-the-badge&logo=hackaday&logoColor=white">
       <img src="https://img.shields.io/badge/raspberry pi-A22846?style=for-the-badge&logo=raspberry pi&logoColor=white">
       <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
-      <img src="https://img.shields.io/badge/tensorflow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
+      <!-- <img src="https://img.shields.io/badge/tensorflow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"> -->
     </div>
 </div>
 
