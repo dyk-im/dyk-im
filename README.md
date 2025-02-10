@@ -15,10 +15,9 @@
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
      <div>
        <img src="https://img.shields.io/badge/java-F98012?style=for-the-badge&logo=openjdk&logoColor=white">
-       <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=black">
+       <!-- <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=black"> -->
        <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=black">
        <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-       <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon ec2&logoColor=white">
      </div>
 </div>
 
@@ -26,6 +25,7 @@
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
      <div>
        <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+       <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon ec2&logoColor=white">
        <img src="https://img.shields.io/badge/githubactions-2088FF?style=for-the-badge&logo=githubactions&logoColor=black">
        <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
      </div>
@@ -45,7 +45,7 @@
         <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
         <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <br/>
         <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white">
-        <img src="https://img.shields.io/badge/vue-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white">
+        <!-- <img src="https://img.shields.io/badge/vue-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white"> -->
         <img src="https://img.shields.io/badge/jsp-FF6600?style=for-the-badge&logo=ejs&logoColor=white">
     </div>
     <p><strong>📫 Backend</strong></p>
@@ -58,7 +58,7 @@
     <div>
       <img src="https://img.shields.io/badge/Security-1A1A1A?style=for-the-badge&logo=hackaday&logoColor=white">
       <img src="https://img.shields.io/badge/raspberry pi-A22846?style=for-the-badge&logo=raspberry pi&logoColor=white">
-      <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
+      <!-- <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"> -->
       <!-- <img src="https://img.shields.io/badge/tensorflow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"> -->
     </div>
 </div>
@@ -84,7 +84,7 @@
       <img src="https://img.shields.io/badge/discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
       <img src="https://img.shields.io/badge/facebook-0866FF?style=for-the-badge&logo=facebook&logoColor=white">
       <img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-      <img src="https://img.shields.io/badge/open-FFCD00?style=for-the-badge&logo=kakaotalk&logoColor=white">
+      <!-- <img src="https://img.shields.io/badge/open-FFCD00?style=for-the-badge&logo=kakaotalk&logoColor=white"> -->
     </div><br>
   </div>
 <!--
