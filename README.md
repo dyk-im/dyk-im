@@ -85,7 +85,7 @@
       <img src="https://img.shields.io/badge/facebook-0866FF?style=for-the-badge&logo=facebook&logoColor=white">
       <img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
       <!-- <img src="https://img.shields.io/badge/open-FFCD00?style=for-the-badge&logo=kakaotalk&logoColor=white"> -->
-    </div><br>
+    </div> <br>
   </div>
 <!--
 **dyk-im/dyk-im** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
