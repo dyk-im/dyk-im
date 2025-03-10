@@ -2,11 +2,19 @@
 
 ## 🌱About Me
 
-  <p>🔭 김동윤 [Dongyun Kim] - Back-End Developer</p>
+  <p>🔭 김동윤 [Dongyun Kim] - Junior Back-End Developer & DevOps Engineer</p>
+  <p>🔭 I’m currently working on Java & SpringBoot + α </p>
+  <p>🔭 도전하는 개발자 노력하는 개발자 끈기있는 개발자 열정있는 개발자</p>
+  
+  <hr>
   <p>🔭 가천대학교 [Gachon Univ.] - 2020.03 ~ </p>
   <p>🔭 컴퓨터공학전공 [Major - Computer Engineering]</p>
-  <p>🔭 I’m currently working on Java & SpringBoot</p>
-  <p>🔭 도전하는 개발자 성장하는 개발자 끈기있는 개발자</p>
+  <p>🔭 보안동아리 Pay1oad 3기 - 2020.03 ~ 2024.02</p>
+  <p>🔭 개발학술동아리 Leets 4기 BE 파트 - 2024.09 ~ 2025.02</p>
+  <p>🔭 개발연합동아리 UMC 7기 SpringBoot 파트 - 2024.09 ~ 2025.02 </p>
+  <p>🔭 개발연합동아리 UMC 8기 운영진(교육팀장) - 2025.02 ~ </p>
+  <p>🔭 카카오엔터프라이즈 SW아카데미 6기 - 2025.02 ~ </p>
+  
   <a href="https://github.com/dyk-im"><img align="center" style="height:180px" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dyk-im&layout=compact&theme=nord&hide_border=true"/></a>
   <a href="https://github.com/dyk-im"><img align="center"  style="height:180px" width="45%" src="https://github-readme-stats.vercel.app/api?username=dyk-im&show_icons=true&include_all_commits=true&theme=nord&hide_border=true" alt="dyk's github stats" /></a>
 
@@ -70,11 +78,15 @@
       <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=Go&logoColor=white"><br>
 </div>
 
-## 📝 certificate
-* SQLD (2024)
-* 네트워크 관리사 2급 (2023)
+## 📝 Certificate
+* SQL개발자 (SQLD) - 2024.06.21
+* 네트워크 관리사 2급 - 2023.12.12
+* 라눅스 마스터 2급 - 2025.3
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=아이디)](https://solved.ac/아이디/)
+
+## 📝 Prize
+* UMC 장기 해커톤 2등 수상 (2024.12)
 
 ## 💬 Connect with me:
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
