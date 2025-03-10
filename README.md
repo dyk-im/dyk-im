@@ -81,7 +81,7 @@
 ## 📝 Certificate
 * SQL개발자 (SQLD) - 2024.06.21
 * 네트워크 관리사 2급 - 2023.12.12
-* 라눅스 마스터 2급 - 2025.3
+* 리눅스 마스터 2급 - 2025.3
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=아이디)](https://solved.ac/아이디/)
 
