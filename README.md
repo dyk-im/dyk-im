@@ -7,12 +7,11 @@
   <p>🔭 도전하는 개발자 노력하는 개발자 끈기있는 개발자 열정있는 개발자</p>
   
   <hr>
-  <p>🔭 가천대학교 [Gachon Univ.] - 2020.03 ~ </p>
-  <p>🔭 컴퓨터공학전공 [Major - Computer Engineering]</p>
-  <p>🔭 보안동아리 Pay1oad 3기 - 2020.03 ~ 2024.02</p>
-  <p>🔭 개발학술동아리 Leets 4기 BE 파트 - 2024.09 ~ 2025.02</p>
-  <p>🔭 개발연합동아리 UMC 7기 SpringBoot 파트 - 2024.09 ~ 2025.02 </p>
-  <p>🔭 개발연합동아리 UMC 8기 운영진(교육팀장) - 2025.02 ~ </p>
+  <p>🔭 가천대학교 컴퓨터공학과 [Gachon Univ. Computer Engineering] - 2020.03 ~ </p>
+  <p>🔭 보안 동아리 Pay1oad 3기, 6기 - 2020.03 ~ 2024.02</p>
+  <p>🔭 개발 학술 동아리 Leets 4기 BE 파트 - 2024.09 ~ 2025.02</p>
+  <p>🔭 개발 연합 동아리 UMC 7기 SpringBoot 파트 - 2024.09 ~ 2025.02 </p>
+  <p>🔭 개발 연합 동아리 UMC 8기 운영진(교육팀장) - 2025.02 ~ </p>
   <p>🔭 카카오엔터프라이즈 SW아카데미 6기 - 2025.02 ~ </p>
   
   <a href="https://github.com/dyk-im"><img align="center" style="height:180px" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dyk-im&layout=compact&theme=nord&hide_border=true"/></a>
@@ -58,7 +57,7 @@
     </div>
     <p><strong>📫 Backend</strong></p>
     <div>
-      <img src="https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=node.js&logoColor=black">
+      <!-- <img src="https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=node.js&logoColor=black"> -->
       <!-- <img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white"> -->
       <!-- <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"> -->
     </div>
@@ -75,7 +74,7 @@
 <div>
       <img src="https://img.shields.io/badge/kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white">
       <img src="https://img.shields.io/badge/terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white">
-      <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=Go&logoColor=white"><br>
+      <!-- <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=Go&logoColor=white"><br> -->
 </div>
 
 ## 📝 Certificate
