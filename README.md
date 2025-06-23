@@ -7,7 +7,7 @@
   <p>🔭 도전하는 개발자 노력하는 개발자 끈기있는 개발자 열정있는 개발자</p>
   
   <hr>
-  <p>🔭 가천대학교 컴퓨터공학과 [Gachon Univ. Computer Engineering] - 2020.03 ~ </p>
+  <p>🔭 가천대학교 컴퓨터공학과 [Gachon Univ. Computer Engineering (GPA : 4.39)] - 2020.03 ~ </p>
   <p>🔭 보안 동아리 Pay1oad 3기, 6기 - 2020.03 ~ 2021.02 / 2023.03 ~ 2024.02</p>
   <p>🔭 한방유비스 단기 연구원 - 2023.07 ~ 2023.12</p>
   <p>🔭 개발 학술 동아리 Leets 4기 BE 파트 - 2024.09 ~ 2025.02</p>
@@ -30,6 +30,7 @@
        <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=black">
        <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=black">
        <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+       <img src="https://img.shields.io/badge/JPA-59666C?style=for-the-badge&logoColor=white">
      </div>
   <p><strong>🧑‍💻 Infra</strong></p>
        <div>
@@ -48,6 +49,8 @@
         <!-- <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> -->
         <img src="https://img.shields.io/badge/JS-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
         <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white"> 
+        <!-- <img src="https://img.shields.io/badge/React Hook Form-EC5990?style=for-the-badge&logo=react-hook-form&logoColor=white"> -->
+        <!-- <img src="https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logoColor=white"> -->
         <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"><br/>
         <img src="https://img.shields.io/badge/Zustand-000000?style=for-the-badge&logo=zustand&logoColor=white">
         <img src="https://img.shields.io/badge/React Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white">
@@ -65,6 +68,7 @@
          <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white">
          <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white">
          <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white">
+         <!-- <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"> -->
      </div>
     <p><strong>📫 AI</strong></p>
     <div>
@@ -83,7 +87,8 @@
       <!-- <img src="https://img.shields.io/badge/Spring Cloud-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> -->
       <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white">
       <img src="https://img.shields.io/badge/OCI-F80000?style=for-the-badge&logo=oracle&logoColor=white">
-      <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white">
+      <!-- <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white"> -->
+      <img src="https://img.shields.io/badge/QueryDSL-4479A1?style=for-the-badge&logoColor=white">
       <!-- <img src="https://img.shields.io/badge/KCP-FFCD00?style=for-the-badge&logo=kakao&logoColor=black"> -->
       <!-- <img src="https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=node.js&logoColor=black"> -->
       <!-- <img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white"> -->
@@ -112,8 +117,14 @@
 * SQL개발자 (SQLD) - 2024.06.21
 * 리눅스 마스터 2급 - 2025.03.28
 * 정보처리기사 - 2025.06.13
+<!-- * Topsit 수준 (613) - 2025.06.23 -->
+<!-- * OPIc -->
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=)](https://solved.ac/dyk-im/)
+<p align="center">
+      <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=" height="180" alt="Top Langs" style="margin-right: 10px;"/>
+</p>
+
+<!-- [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=)](https://solved.ac/dyk-im/) -->
 
 ## 📝 Prize
 * UMC GCU 장기 해커톤 2등 수상 (2024.12)
@@ -124,6 +135,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
     <img src="https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
     <img src="https://img.shields.io/badge/discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
+    <img src="https://img.shields.io/badge/Tistory-FF5A00?style=for-the-badge&logo=tistory&logoColor=white">
   </div>
   <br>
 </div>
