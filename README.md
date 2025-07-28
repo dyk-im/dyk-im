@@ -58,6 +58,11 @@
         <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white">
         <!-- <img src="https://img.shields.io/badge/Amplify-DC382D?style=for-the-badge&logo=awsamplify&logoColor=white"> -->
      </div>
+  <p><strong>🧑‍💻 Backend</strong></p>
+  <div>
+    <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white">
+    <img src="https://img.shields.io/badge/Spring%20WebFlux-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
+  </div>
 </div>
 
 ##  🤔 Basic & Experience
@@ -87,10 +92,10 @@
     <div>
       <!-- <img src="https://img.shields.io/badge/Spring Cloud-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> -->
       <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white">
+      <img src="https://img.shields.io/badge/KC-FFCD00?style=for-the-badge&logo=kakao&logoColor=black">
       <img src="https://img.shields.io/badge/OCI-F80000?style=for-the-badge&logo=oracle&logoColor=white">
       <!-- <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white"> -->
       <img src="https://img.shields.io/badge/QueryDSL-4479A1?style=for-the-badge&logoColor=white">
-      <!-- <img src="https://img.shields.io/badge/KCP-FFCD00?style=for-the-badge&logo=kakao&logoColor=black"> -->
       <!-- <img src="https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=node.js&logoColor=black"> -->
       <!-- <img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white"> -->
       <!-- <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"> -->
