@@ -14,7 +14,8 @@
   <p>🔭 개발 연합 동아리 UMC GCU 7기 SpringBoot 파트 - 2024.09 ~ 2025.02 </p>
   <p>🔭 개발 연합 동아리 UMC GCU 8기 운영진(교육팀장) - 2025.02 ~ 2025.08</p>
   <p>🔭 카카오엔터프라이즈 SW아카데미 6기 - 2025.02 ~ 2025.08</p> 
-  <p>🔭 AUSG 9기 - 2025.07 ~ </p> <br/>
+  <p>🔭 AUSG 9기 - 2025.07 ~ </p>
+  <p>🔭 Kakao Enterprise Cloud Solution Intern - 2025.09 ~ </p> <br/>
 
 
   <p align="center">
@@ -134,7 +135,8 @@
 <!-- [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=)](https://solved.ac/dyk-im/) -->
 
 ## 📝 Prize
-* UMC GCU 장기 해커톤 2등 수상 (2024.12)
+* UMC GCU 장기 해커톤 우수상 수상 (2024.12.23)
+* 카카오엔터프라이즈 SW 아카데미 6기 우수학생 표창 (2025.08.27)
 
 ## 💬 Contact with me:
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
