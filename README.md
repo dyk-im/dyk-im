@@ -3,7 +3,7 @@
 ## 🌱About Me
 
   <p>🔭 김동윤 [Dongyun Kim] - Back-End Developer & DevOps Engineer</p>
-  <p>🔭 I’m currently working on Java & Spring + DevOps + Cloud + Architecture + α </p>
+  <p>🔭 I’m currently working on Spring + DevOps + Cloud + Architecture + α </p>
   <p>🔭 도전하는 개발자 노력하는 개발자 끈기있는 개발자 열정있는 개발자</p>
   
   <hr>
