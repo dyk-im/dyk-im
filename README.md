@@ -2,7 +2,7 @@
 
 ## 🌱About Me
 
-  <p>🔭 김동윤 [Dongyun Kim] - Back-End Developer & DevOps Engineer</p>
+  <p>🔭 김동윤 [Dongyun Kim] - Cloud Engineer & Back-End Developer</p>
   <p>🔭 I’m currently working on Spring + DevOps + Cloud + Architecture + α </p>
   <p>🔭 도전하는 개발자 노력하는 개발자 끈기있는 개발자 열정있는 개발자</p>
   
@@ -38,6 +38,7 @@
   <p><strong>🧑‍💻 Infra</strong></p>
        <div>
          <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
+         <img src="https://img.shields.io/badge/KC-FFCD00?style=for-the-badge&logo=kakao&logoColor=black">
          <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
          <img src="https://img.shields.io/badge/githubactions-2088FF?style=for-the-badge&logo=githubactions&logoColor=black">
      </div>
@@ -67,7 +68,6 @@
   <p><strong>🧑‍💻 Infra</strong></p>
   <div>
     <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white">
-    <img src="https://img.shields.io/badge/KC-FFCD00?style=for-the-badge&logo=kakao&logoColor=black">
     <img src="https://img.shields.io/badge/K8S-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white">
     <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white">
     <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
@@ -80,7 +80,7 @@
        <div>
          <img src="https://img.shields.io/badge/terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white">
          <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white">
-         <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white">
+       <!-- <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white"> -->
          <!-- <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"> -->
          <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white">
         <!-- <img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white"> -->
