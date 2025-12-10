@@ -138,7 +138,7 @@
 <!-- [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=)](https://solved.ac/dyk-im/) -->
 
 ## 📝 Prize
-* UMC GCU 장기 해커톤 우수상 수상 (2024.12.23)
+<!-- * UMC GCU 장기 해커톤 우수상 수상 (2024.12.23) -->
 * 카카오엔터프라이즈 SW 아카데미 6기 우수학생 표창 (2025.08.27)
 
 ## 💬 Contact with me:
