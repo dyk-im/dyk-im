@@ -15,12 +15,12 @@
   <p>🔭 개발 연합 동아리 UMC GCU 8기 운영진(교육팀장) - 2025.02 ~ 2025.08</p>
   <p>🔭 카카오엔터프라이즈 SW아카데미 6기 - 2025.02 ~ 2025.08</p> 
   <p>🔭 AUSG 9기 - 2025.07 ~ </p>
-  <p>🔭 Kakao Enterprise Cloud Solution Intern - 2025.09 ~ </p> <br/>
+  <p>🔭 Kakao Enterprise Cloud Solution Team Intern - 2025.09.01 ~ 2025.11.28</p> <br/>
 
 
   <p align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dyk-im&layout=compact&theme=nord&hide_border=true" width="360" height="180" alt="Top Langs" style="margin-right: 10px;"/>
-      <img src="https://github-readme-stats.vercel.app/api?username=dyk-im&show_icons=true&include_all_commits=true&theme=nord&hide_border=true" height="180" alt="GitHub Stats"/>
+      <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=dyk-im&layout=compact&theme=nord&hide_border=true" width="360" height="180" alt="Top Langs" style="margin-right: 10px;"/>
+      <img src="https://github-readme-stats-fast.vercel.app/api?username=dyk-im&show_icons=true&include_all_commits=true&theme=nord&hide_border=true" height="180" alt="GitHub Stats"/>
   </p>
 
 
@@ -128,7 +128,6 @@
 * 리눅스 마스터 2급 - 2025.03.28
 * 정보처리기사 - 2025.06.13
 * AWS Certified Solutions Architect Associate - 2025.07.19
-<!-- * Topsit 수준 (613) - 2025.06.23 -->
 <!-- * OPIc -->
 
 <p align="center">
@@ -140,6 +139,7 @@
 ## 📝 Prize
 <!-- * UMC GCU 장기 해커톤 우수상 수상 (2024.12.23) -->
 * 카카오엔터프라이즈 SW 아카데미 6기 우수학생 표창 (2025.08.27)
+* 카카오엔터프라이즈 우수 인턴 수료 (2025.11.28)
 
 ## 💬 Contact with me:
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
